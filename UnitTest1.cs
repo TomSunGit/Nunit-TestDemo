@@ -27,7 +27,7 @@ namespace Nunit_TestDemo
             int result = a * b;
 
             // Assert
-            Assert.That(result, Is.EqualTo(5));
+            Assert.That(result, Is.EqualTo(6));
         }
     }
 }
