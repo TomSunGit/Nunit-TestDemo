@@ -1,3 +1,2 @@
-没有pr能成功吗？
-先测试下
-
+external id
+refs/heads/test-pr
